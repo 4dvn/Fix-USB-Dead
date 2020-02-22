@@ -1,3 +1,3 @@
 # Fix-USB-Dead
 
-* Run Fix.bat and take a ☕
+* Run Fix.bat and give me a ☕
