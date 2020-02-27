@@ -1,5 +1,0 @@
-select disk 1
-clean 
-clean
-convert mbr
-format quick fs=fat32 label="New Volumes"  
